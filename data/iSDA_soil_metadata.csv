@@ -1,0 +1,25 @@
+﻿column_name,description,unit
+longitude,Latitude of soil sampling location,decimal degrees
+latitude,Longitude of soil sampling location,decimal degrees
+start_date,Combined with end_date to indicate the timespan over which data were collected,
+end_date,Combined with start_date to indicate the timespan over which data were collected,
+source,Reference to the original source of the dataset. More information is available upon request. ,
+horizon_lower,Depth of bottom of sampled layer,cm
+horizon_upper,Depth of top of sampled layer,cm
+aluminium_extractable,"Aluminum, Mehlich3 extraction",mg/kg
+boron_extractable,"Boron, Mehlich3 extraction",mg/kg
+calcium_extractable,"Calcium, Mehlich3 extraction",mg/kg
+carbon_organic,Organic Carbon by combustion after acidification,mg/kg
+carbon_total,Total Carbon by combustion,mg/kg
+copper_extractable,"Copper, Mehlich3 extraction",mg/kg
+electrical_conductivity,"Electrical conductivity, Saturation Extract",dS/m
+iron_extractable,"Iron, Mehlich3 extraction",mg/kg
+magnesium_extractable,"Magnesium, Mehlich3 extraction",mg/kg
+manganese_extractable,"Manganese, Mehlich3 extraction",mg/kg
+nitrogen_total,Total Nitrogen by combustion,mg/kg
+ph,"pH, measured in 1:1 soil-water suspension",
+phosphorus_extractable,"Phosphorus, Mehlich3 extraction",mg/kg
+potassium_etractable,"Potassium, Mehlich3 extraction",mg/kg
+sodium_extractable,"Sodium, Mehlich3 extraction",mg/kg
+sulphur_extractable,"Sulphur, Mehlich3 extraction",mg/kg
+zn_mehlich3,"Zinc, Mehlich3 extraction",mg/kg
